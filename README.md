@@ -32,4 +32,4 @@ License
 The Python for Data Science Library is licensed under the MIT License. See the LICENSE file for more information.
 
 Contact
-For any questions or inquiries about the Python for Data Science Library, please contact us at [email address].
+For any questions or inquiries about the Python for Data Science Library, please contact me at sujankumar7702@gmail.com.
